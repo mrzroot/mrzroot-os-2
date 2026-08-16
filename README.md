@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45&height=220&section=header&text=MRZROOT-OS-2&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Ultra-Lightweight%20Terminal%20Workspace%20%26%20CLI%20Automation%20Engine&descFontSize=16&descAlignY=58&descAlign=50" alt="MRZROOT OS 2 Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,45&height=200&section=header&text=MRZROOT-OS-2&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Simple%20Terminal%20Workspace%20%26%20CLI%20Tool%20for%20Python&descFontSize=16&descAlignY=58&descAlign=50" alt="MRZROOT OS 2 Banner" width="100%" />
 
 <!-- Animated Typist -->
 <a href="https://github.com/mrzroot/mrzroot-os-2">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Minimalist+CLI+Operating+Environment;High-Speed+Python+Automation+%26+Task+Orchestration;Zero+Bloat+%7C+Instant+Startup+%7C+Pure+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Simple+CLI+Workspace+%26+Automation+Scripts;Lightweight+Developer+Utilities+in+Python;Clean%2C+Readable+%26+Zero+Extra+Packages" alt="Typing SVG" />
 </a>
 
 <br />
@@ -21,7 +21,7 @@
   <a href="https://github.com/mrzroot/mrzroot-os-2/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge" alt="License" />
   </a>
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
+  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome" />
 </p>
 
@@ -35,12 +35,12 @@
 
 ### 📖 Overview
 
-**MRZROOT-OS-2** is an ultra-lightweight, modular command-line operating environment and developer utility suite. Built following the **Ponytail / YAGNI minimalist philosophy**, it provides high-throughput automation, system inspection, and developer productivity tools without heavy external dependencies.
+**MRZROOT-OS-2** is a friendly, lightweight terminal workspace and CLI automation tool written in Python. It provides simple scripts for quick benchmarks, system diagnostics, and everyday tasks without any bloated dependencies.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  ⚡ MRZROOT-OS-2 Terminal Environment                      │
-│  [Core] Fast • Minimalist • Async • Extensible             │
+│  [Core] Simple • Fast • Clean • Zero Dependencies          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -48,11 +48,10 @@
 
 ### ✨ Key Features
 
-- ⚡ **Zero-Bloat Startup**: Instant initialization with minimal memory footprint.
-- 🛠️ **Modular Tooling**: Built-in developer utilities for system diagnostics, file tasks, and automation.
-- 🔒 **Safe & Resilient**: Strict validation and isolation of automated tasks.
-- 📊 **Dynamic Analytics**: Real-time process and resource monitoring directly in the terminal.
-- 🌐 **Cross-Platform**: Seamless execution on Linux, macOS, and Windows.
+- ⚡ **Lightweight & Fast**: Pure Python standard library with immediate startup.
+- 🛠️ **Helpful Utilities**: Built-in micro-benchmarks and system information tools.
+- 📖 **Easy to Understand**: Clean code designed to be readable and customizable.
+- 🌐 **Cross-Platform**: Runs easily on Windows, macOS, and Linux.
 
 ---
 
